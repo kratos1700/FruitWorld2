@@ -1,0 +1,2 @@
+rootProject.name='FruitWorld2'
+include ':app'
