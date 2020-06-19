@@ -7,8 +7,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2ea1dee-2146-4c67-af3a-951a44b27bd9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/fruitworld2/models/Fruita.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/fruitworld2/adapters/FruitAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/reciclerview_fruit_item.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/fruitworld2/activitis/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/fruitworld2/activitis/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/fruitworld2/models/Fruita.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/fruitworld2/models/Fruita.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,6 +37,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="layoutResourceFile" />
       </list>
     </option>
   </component>
@@ -46,6 +51,9 @@
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.fruitworld2.activitis" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\TEMP\PROGRAMACIO VISUALSTUDIO\Android\FruitWorld2\app\src\main\res\drawable" />
     </key>
@@ -154,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592595448885</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="creacio de la classe fruita">
+      <created>1592596912065</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1592596912065</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -172,6 +187,7 @@
     <MESSAGE value="Inicial commit" />
     <MESSAGE value="preparacio dels paquets" />
     <MESSAGE value="preparacio iconos" />
-    <option name="LAST_COMMIT_MESSAGE" value="preparacio iconos" />
+    <MESSAGE value="creacio de la classe fruita" />
+    <option name="LAST_COMMIT_MESSAGE" value="creacio de la classe fruita" />
   </component>
 </project>

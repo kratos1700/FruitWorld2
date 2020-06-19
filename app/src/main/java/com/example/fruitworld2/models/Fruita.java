@@ -2,9 +2,9 @@ package com.example.fruitworld2.models;
 
 
 public class Fruita {
-
-    private final int VALOR_MAX = 10;
-    private  final int VALOR_INI=0;
+    // al ser static no fa falta instanciar  i aixi podem accedir als valors
+    public static final int VALOR_MAX = 10;
+    public static final int VALOR_INI=0;
 
     // atributs
     private String nombre;
