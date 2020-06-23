@@ -9,9 +9,9 @@ public class Fruita {
     // atributs
     private String nombre;
     private String descripcion;
-    private int  imagBack;
-    private  int icono;
-    private  int cantidad;
+    private int imagBack;
+    private int icono;
+    private int cantidad;
 
     // constructors
 
@@ -76,7 +76,8 @@ public class Fruita {
         }
     }
     // metode resset
-    public  void resetCuantitat(){
+    public void resetCuantitat(){
         this.cantidad = VALOR_INI;
     }
 }
+
